@@ -9,5 +9,19 @@
         "name": "Howsweet"
     },
     "items": [
+        {
+            "id": "https://Sweetiehow.github.io/jian-li-yi-ge-bu-luo-ge-ke-yi-hua-yi-ge-xia-wu.html",
+            "url": "https://Sweetiehow.github.io/jian-li-yi-ge-bu-luo-ge-ke-yi-hua-yi-ge-xia-wu.html",
+            "title": "建立一個部落格可以花一個下午",
+            "summary": "確實這樣一比較，社群媒體註冊帳號快速多了，瞬間就能分身好幾個帳號。 不過再怎麼樣，看到部落格的格式以及Publii內有的個人化風格，就是和社群媒體帳號差很多，發文格式也遠比臉書自由許多，更不會向Thread一樣在文章發布之後，系統自動配一位玩家來跟你吵架，就算部落格沒有人看也沒有關係，畢竟大家也都沒有認真看彼此的貼文不是嗎？",
+            "content_html": "<p>確實這樣一比較，社群媒體註冊帳號快速多了，瞬間就能分身好幾個帳號。</p>\n<p>不過再怎麼樣，看到部落格的格式以及Publii內有的個人化風格，就是和社群媒體帳號差很多，發文格式也遠比臉書自由許多，更不會向Thread一樣在文章發布之後，系統自動配一位玩家來跟你吵架，就算部落格沒有人看也沒有關係，畢竟大家也都沒有認真看彼此的貼文不是嗎？</p>",
+            "author": {
+                "name": "Howsweet"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-14T22:03:16+08:00",
+            "date_modified": "2026-03-14T22:03:16+08:00"
+        }
     ]
 }

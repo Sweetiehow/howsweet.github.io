@@ -3,10 +3,31 @@
     <title>howsweet</title>
     <link href="https://Sweetiehow.github.io/feed.xml" rel="self" />
     <link href="https://Sweetiehow.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-03-14T22:03:16+08:00</updated>
     <author>
         <name>Howsweet</name>
     </author>
     <id>https://Sweetiehow.github.io</id>
 
+    <entry>
+        <title>建立一個部落格可以花一個下午</title>
+        <author>
+            <name>Howsweet</name>
+        </author>
+        <link href="https://Sweetiehow.github.io/jian-li-yi-ge-bu-luo-ge-ke-yi-hua-yi-ge-xia-wu.html"/>
+        <id>https://Sweetiehow.github.io/jian-li-yi-ge-bu-luo-ge-ke-yi-hua-yi-ge-xia-wu.html</id>
+
+        <updated>2026-03-14T22:03:16+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    確實這樣一比較，社群媒體註冊帳號快速多了，瞬間就能分身好幾個帳號。 不過再怎麼樣，看到部落格的格式以及Publii內有的個人化風格，就是和社群媒體帳號差很多，發文格式也遠比臉書自由許多，更不會向Thread一樣在文章發布之後，系統自動配一位玩家來跟你吵架，就算部落格沒有人看也沒有關係，畢竟大家也都沒有認真看彼此的貼文不是嗎？
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>確實這樣一比較，社群媒體註冊帳號快速多了，瞬間就能分身好幾個帳號。</p>
+<p>不過再怎麼樣，看到部落格的格式以及Publii內有的個人化風格，就是和社群媒體帳號差很多，發文格式也遠比臉書自由許多，更不會向Thread一樣在文章發布之後，系統自動配一位玩家來跟你吵架，就算部落格沒有人看也沒有關係，畢竟大家也都沒有認真看彼此的貼文不是嗎？</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
